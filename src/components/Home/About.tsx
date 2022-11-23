@@ -30,7 +30,7 @@ import React from "react";
                                     <li className="d-flex"><span>Email:</span> <span>saddy.devs@gmail.com</span></li>
                                     <li className="d-flex"><span>Phone: </span> <span>+92 3330220975</span></li>
                                     <li className="d-flex"><span>GitHub: </span> <a href="https://github.com/MSaddamKamal" target="_blank" >https://github.com/MSaddamKamal</a></li>
-                                    <li className="d-flex"><span>Linkedin: </span> <a href="https://www.linkedin.com/in/m-saddam-6aba76228/" target="_blank" >https://www.linkedin.com/in/m-saddam-6aba76228/</a></li>
+                                    {/* <li className="d-flex"><span>Linkedin: </span> <a href="https://www.linkedin.com/in/m-saddam-6aba76228/" target="_blank" >https://www.linkedin.com/in/m-saddam-6aba76228/</a></li> */}
                                     <li className="d-flex"><span>StackOverflow: </span> <a href="https://stackoverflow.com/users/13947407/saddam" target="_blank" >https://stackoverflow.com/users/13947407/saddam</a></li>
                                 </ul>
                             </div>

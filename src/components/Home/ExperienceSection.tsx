@@ -1,6 +1,6 @@
 const experience = [
     {
-        year: 'Jan 2019 - Present',
+        year: 'Jan 2021 - Present',
         company: 'EGLOBAL (FINTECH)',
         location: 'DUBAI, UAE',
         designation: 'TEAM LEAD / SENIOR SOFTWARE ENGINEER',
@@ -19,12 +19,12 @@ const experience = [
         ]
     },
     {
-        year: 'April 2017 - Dec 2019',
-        company: 'REAVERTECH',
+        year: 'July 2019 - June 2020',
+        company: 'REAVERTECH+DIGITAL GRAVITY',
         location: 'KARACHI, PAKISTAN',
         designation: 'FULLSTACK DEVELOPER',
         description: [
-            'Engineered a range of modern web applications using React,Vue,Laravel,Express,Jquery, Redis,AWS,MYSQL,Mongo.',
+            'Engineered a range of modern web applications using React,Vue,Laravel,Express,Jquery, Redis,AWS,MYSQL,Mongo,Javascript,Symphony,Wordpress.',
             'Integrated different payment gateways including PayPal, Stripe, Etisalat and other payment APIs.',
             'Provided leadership as a subject matter expert (SME) on hosting issues, client and staff logins, and general upgrades.',
             'Designed and implemented web application, streamlining high-server traffic resource configuration and allocation.',
@@ -37,12 +37,12 @@ const experience = [
         ]
     },
     {
-        year: 'Nov 2014 - March 2017',
-        company: 'DIGITAL GRAVITY',
+        year: 'Nov 2014 - June 2019',
+        company: 'INNOVA8ORS ',
         location: 'KARACHI, PAKISTAN',
         designation: 'FULLSTACK DEVELOPER',
         description: [
-            'Develop web applications and REST APIs using Laravel,Express,Jquery,Javascript,Symphony,Wordpress,AWS,MYSQL,Mongo.',
+            'Develop web applications and REST APIs using Laravel,Express,Jquery,Javascript,React,Vue,AWS,MYSQL,Mongo.',
             'Solution-driven web development adapt at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction.',
             'Proven experience developing consumer-focused websites using HTML, CSS, PHP and JavaScript Frameworks.',
 
